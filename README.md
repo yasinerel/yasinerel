@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 
+![Alt Text](https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif)
+
+
 
 <!--
 **yasinerel/yasinerel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
